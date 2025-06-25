@@ -1,7 +1,2 @@
 # Band-Name-Generator
 python script to create band names
-print("Welcome to Band Name Generator!")
-x=str(input("What was the name of the city you grew up in?"))
-y=str(input("What was the name of your first pet?"))
-z=x+y
-print("Your band name could be:",z)
